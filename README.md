@@ -1,4 +1,4 @@
-Learn Design Patterns from <Head First Java Design Patterns>
+Learn Design Patterns from *Head First Java Design Patterns*
 
 Catalog:
 
@@ -7,3 +7,11 @@ Catalog:
 - Observer Pattern
 
 - Decorator Pattern
+
+- Observer Pattern
+
+- Singleton Pattern
+
+- Factory Pattern
+
+- Command Pattern
