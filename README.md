@@ -1,4 +1,4 @@
-Learn Design Patterns from *Head First Java Design Patterns*
+Learn Design Patterns from *Head First Design Patterns*
 
 Catalog:
 
